@@ -5,14 +5,14 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrainsMono Nerd Font:size=11:antialias=true:autohint=true";
+static char *font = "JetBrainsMono Nerd Font:size=11.5:antialias=true:autohint=true";
 #if FONT2_PATCH
 /* Spare fonts */
 static char *font2[] = {
-  "Noto Color Emoji:size=11:antialias=true:autohint=true",
-  "Noto Serif CJK JP:size=11:antialias=true:autohint=true",
-  "Noto Serif CJK KR:size=11:antialias=true:autohint=true",
-  "Noto Serif CJK SC:size=11:antialias=true:autohint=true",
+  "Noto Color Emoji:size=11.5:antialias=true:autohint=true",
+  "Noto Serif CJK JP:size=11.5:antialias=true:autohint=true",
+  "Noto Serif CJK KR:size=11.5:antialias=true:autohint=true",
+  "Noto Serif CJK SC:size=11.5:antialias=true:autohint=true",
 };
 #endif // FONT2_PATCH
 
