@@ -37,7 +37,7 @@
 /* A simple variant of the anysize patch that only changes the resize hints to allow the window to
  * be resized to any size.
  */
-#define ANYSIZE_SIMPLE_PATCH 0
+#define ANYSIZE_SIMPLE_PATCH 1
 
 /* Draws a background image in farbfeld format in place of the defaultbg color allowing for pseudo
  * transparency.
@@ -63,7 +63,7 @@
  * This patch makes bold text rendered simply as bold, leaving the color unaffected.
  * https://st.suckless.org/patches/bold-is-not-bright/
  */
-#define BOLD_IS_NOT_BRIGHT_PATCH 0
+#define BOLD_IS_NOT_BRIGHT_PATCH 1
 
 /* This patch adds custom rendering of lines/blocks/braille characters for gapless alignment.
  * https://st.suckless.org/patches/boxdraw/
