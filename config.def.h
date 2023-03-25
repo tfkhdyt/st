@@ -10,9 +10,9 @@ static char *font = "JetBrainsMono Nerd Font:size=11.5:antialias=true:autohint=t
 /* Spare fonts */
 static char *font2[] = {
   "Noto Color Emoji:size=11.5:antialias=true:autohint=true",
-  "Noto Serif CJK JP:size=11.5:antialias=true:autohint=true",
-  "Noto Serif CJK KR:size=11.5:antialias=true:autohint=true",
-  "Noto Serif CJK SC:size=11.5:antialias=true:autohint=true",
+  "Noto Sans CJK JP:size=11.5:antialias=true:autohint=true",
+  "Noto Sans CJK KR:size=11.5:antialias=true:autohint=true",
+  "Noto Sans CJK SC:size=11.5:antialias=true:autohint=true",
 };
 #endif // FONT2_PATCH
 
